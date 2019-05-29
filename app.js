@@ -12,7 +12,7 @@ var inBody = function(query) {
     "  <meta property=\"og:type\" content=\"article\" />\n" +
     "  <meta property=\"og:title\" content=\"" + query + "\" />\n" +
     "  <meta property=\"og:description\" content=\"" + result + "\" />\n" +
-    "  <meta property=\"og:url\" content=\"https://todo.com\" />\n" +
+    "  <meta property=\"og:url\" content=\"https://ojsi.herokuapp.com/\" />\n" +
     "  <meta property=\"og:site_name\" content=\"OJSI\" />\n" +
     "</head>\n" +
     "\n" +
